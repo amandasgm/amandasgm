@@ -1,7 +1,7 @@
-<h1 align="center">✨ Amanda Santana</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1>Hi, I'm Amanda</h1>
+<h3>Full-Stack Developer</h3>
 
-<p align="center">
+<p>
   “Não empilho ferramentas — entendo o sistema.”
 </p>
 
@@ -26,7 +26,7 @@
 ### 🌐 Onde me encontrar
 
 <p>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/amanda-santana-580524265/" target="_blank">
+  <a href="https://www.linkedin.com/in/amanda-santana-580524265/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
