@@ -1,8 +1,8 @@
-<h1>Hi, I'm Amanda</h1>
+<h1>Hi, I'm Amanda ✨ </h1>
 <h3>Full-Stack Developer</h3>
 
 <p>
-  “Não empilho ferramentas — entendo o sistema.”
+  “Não empilho ferramentas — entendo o sistema. Node, React e Bando de dados são meios; o objetivo é código que faz sentido e se mantém.”
 </p>
 
 ---
