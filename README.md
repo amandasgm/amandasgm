@@ -39,14 +39,21 @@
 
 ### 📌 Sobre mim
 
-Sou uma desenvolvedora full-stack focada em criar aplicações robustas, escaláveis e com arquitetura limpa.  
-Gosto de entender profundamente cada camada do sistema — não apenas usar ferramentas, mas dominar o porquê de cada decisão técnica.
+📌 Sobre mim
 
-Atualmente estudando e desenvolvendo projetos com:
+Sou desenvolvedora full-stack.
+Mulher em tecnologia, com postura, disciplina e responsabilidade técnica.
 
-- Arquitetura limpa  
-- APIs REST de alta performance  
-- Banco de dados relacionais  
-- Testes automatizados  
-- TypeScript avançado  
-- DevOps básico com Docker  
+Não escrevo código para impressionar — escrevo para durar.
+Acredito que bons sistemas nascem de boas decisões, comunicação clara e trabalho em equipe.
+
+Gosto de entender o todo: da regra de negócio ao banco de dados.
+Ferramentas passam. Princípios ficam.
+
+Atualmente focada em:
+• Arquitetura limpa aplicada à prática  
+• APIs REST pensadas para times reais  
+• Modelagem de dados consciente  
+• Código legível como valor  
+• TypeScript para reduzir erros humanos  
+• Docker como suporte à consistência  
